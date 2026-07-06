@@ -38,20 +38,30 @@ About TripGenie
 🛠 Tech Stack
 
 Kotlin
+
 Jetpack Compose
+
 Material 3
+
 Retrofit
+
 OpenWeather API
+
 Coroutines
+
 Navigation Compose
 
 
 📱 Screens
 
 🏠 Home
+
 🌍 Explore
+
 🌦 Weather
+
 🎒 Packing
+
 ℹ️ More
 
 
